@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @refazul
-- 👀 I’m interested in [Containers](https://www.docker.com/resources/what-container)
-- 🌱 I’m currently learning [flutter](https://flutter.dev/), [next.js](https://nextjs.org/)
-- 💞️ I’m looking to collaborate on Ad hoc Projects
+- 👀 I’m interested in Containers
+- 🌱 I’m currently learning Svelte
+- 💞️ I’m looking to collaborate on Laravel Projects
 - 📫 How to reach [me](https://www.upwork.com/freelancers/~01f384c7c2569ecfcb)
 
 <!---
