@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @refazul
-- 👀 I’m interested in Containers
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on Laravel Projects
-- 📫 How to reach [me](https://www.upwork.com/freelancers/~01f384c7c2569ecfcb)
+- 👀 Started believing in Docker
+- 🌱 Currently learning Svelte, Motion Graphics
+- 💞️ Looking to collaborate on Node Projects
+- 📫 Connect with me at [LinkedIn](https://linkedin.com/in/refazul)
 
 <!---
 refazul/refazul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
