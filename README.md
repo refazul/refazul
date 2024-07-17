@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @refazul
-- 👀 Started believing in Docker
-- 🌱 Currently learning Svelte, Motion Graphics
-- 💞️ Looking to collaborate on Node Projects
+- 👀 Nothing much here
+- 🌱 Currently working on a template project to create my first digital product ^_^
+- 💞️ Looking to collaborate on Micro SaaS Projects
 - 📫 Connect with me at [LinkedIn](https://linkedin.com/in/refazul)
 
 <!---
